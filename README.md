@@ -1,3 +1,10 @@
+# Oct 2022
+This repo is a Python3 version of https://github.com/lichengunc/refer (where the original code was in Python2.7)<br>
+Full credit to the original authors of https://github.com/lichengunc/refer<br>
+The visualization notebook was modified to 'parse_refseg.ipynb'
+
+<hr>
+
 ## Note
 This API is able to load all 4 referring expression datasets, i.e., RefClef, RefCOCO, RefCOCO+ and RefCOCOg. 
 They are with different train/val/test split by UNC, Google and UC Berkeley respectively. We provide all kinds of splits here.
